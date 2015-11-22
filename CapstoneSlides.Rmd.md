@@ -15,7 +15,7 @@ Celebrity Reviewers vs Businesses
   + Marketing teams can their adapt strategies
 
 * Who are the celebrity reviewers?
-  +Top 10 percent of cumulative votes received
+  + Top 10 percent of cumulative votes received
 
 
 
@@ -23,7 +23,7 @@ About Celebrity Yelp Reviewers
 ========================================================
 
 * They are prolific
-  +Celebrities generate 37.3866348 percent of all reviews. 
+  + Celebrities generate 37.3866348 percent of all reviews. 
   
 * They command exponentially more votes than the lowes decile of yelp users.
 
@@ -46,11 +46,11 @@ Results 1
 
 Results 2 and Conclusion
 ========================================================
-* Comparison of checkins by review scores also well within the error bars of each other.
+* Comparison of checkins by review scores also show they are not very different.
 
 ![plot of chunk unnamed-chunk-3](CapstoneSlides.Rmd-figure/unnamed-chunk-3-1.png) 
 
-* The number of reviews did not change significantly in the 3 months before and after a yelp review.
+* The number of reviews did not change significantly in the 3 months before and after a yelp review, according to paired t tests.
 
 * Conclusion: Celebrity reviewers' individual reviews do not impact businesses more significantly than the average yelp review.
 

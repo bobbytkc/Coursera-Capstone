@@ -189,6 +189,6 @@ t.test(badDF$before, badDF$after, paired = TRUE)
 
 Which suggests that there is a difference between the celebrity group and the random sample, but it amounts only to less than 0.19 increase in the number of reviews in the 3 months after a review by a celebrity Yelp reviewer is posted.
 
-##Conclusion
+##Discussion and 
 
-In summary, even though celebrity Yelp reviewers are highly prolific, on the individual review basis, the difference between a celebrity review and the average Yelp review is either insignificant, or small enough that a business owner need not be concerned about it. 
+In summary, even though celebrity Yelp reviewers are highly prolific,with roughly 40% of the reviews in the dataset commanded by celebrity reviewers, on an individual review basis, the difference between a celebrity review and the average Yelp review is not significant. For instance, businesses reviewed celebrity reviewers do not experience a statistically different numbe of check ins as compared to the "average" (i.e. randomly sampled) yelp user. There is a statistically significant increase of 0.15-0.18 reviews in the 3 months following a review posted by a celebrity reviewer, but it is still only a minor increase which business owners are not likely to be concerned about. The results suggest that Yelp users' usage patterns do not overweigh the opinions of celebrity reviewers, but are likely to look at the overall opinion of the business across all reviews posted.
